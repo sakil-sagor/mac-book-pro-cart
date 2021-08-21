@@ -52,7 +52,7 @@ document.getElementById('storage-1tb').addEventListener('click', function () {
     partsPrice('storage-price', 180)
 })
 
-// delivery price variation 
+// delivery price  variation 
 document.getElementById('regular-delivery').addEventListener('click', function () {
     partsPrice('delivery-price', 0)
 })
